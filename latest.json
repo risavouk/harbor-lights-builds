@@ -1,0 +1,9 @@
+{
+  "version": "0.0.15-dev.1",
+  "versionCode": 15,
+  "downloadUrl": "https://github.com/risavouk/harbor-lights-builds/releases/latest/download/HarborLights-latest.apk",
+  "sha256": "03e9533addb857042118623fd20626e24d5e95db4377294bde1f37018d1d8447",
+  "mandatory": false,
+  "publishedAt": "2026-10-28T19:49:15Z",
+  "notes": "M0 HL-015 development build with HL_DEBUG"
+}
